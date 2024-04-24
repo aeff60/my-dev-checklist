@@ -4,29 +4,29 @@
 
 ## ความรู้พื้นฐานของ Computer Science
 
-รู้จักกับ HTTP
-การทํางานเบื้องต้นของระบบ Internet
-DNS / Domain name และ Client - Server Model
-การทํางานของ Web Browser
-ความรู้พื้นฐาน Computer Network
-ความรู้พื้นฐานเรื่อง Algorithm และ Data Structures
-พื้นฐานความเข้าใจ ด้านระบบปฏิบัติการ
+- [ ] รู้จักกับ HTTP
+- [ ] การทํางานเบื้องต้นของระบบ Internet
+- [ ] DNS / Domain name และ Client - Server Model
+- [ ] การทํางานของ Web Browser
+- [ ] ความรู้พื้นฐาน Computer Network
+- [ ] ความรู้พื้นฐานเรื่อง Algorithm และ Data Structures
+- [ ] พื้นฐานความเข้าใจ ด้านระบบปฏิบัติการ
 
 ## HTML/CSS
 
-HTML พื้นฐาน
-CSS พื้นฐาน
-จัดการ Layouts ของ CSS Grid, Flexbox
-การจัดการกับฟอร์ม และ Validation
-Responsive Design และ Media Querie
-ความรู้พื้นฐานด้าน Search Engine Optimization
-ES6+ และ จัดการกับ Document Object Model (DOM)
+- [ ] HTML พื้นฐาน
+- [ ] CSS พื้นฐาน
+- [ ] จัดการ Layouts ของ CSS Grid, Flexbox
+- [ ] การจัดการกับฟอร์ม และ Validation
+- [ ] Responsive Design และ Media Querie
+- [ ] ความรู้พื้นฐานด้าน Search Engine Optimization
+- [ ] ES6+ และ จัดการกับ Document Object Model (DOM)
 
 ## JavaScript
 
-JavaScript พื้นฐาน
-AJAX, Fetch API และ Axios
-JSON/XML
+- [ ] JavaScript พื้นฐาน
+- [ ] AJAX, Fetch API และ Axios
+- [ ] JSON/XML
 
 ## Front-End JavaScript Libraries/ Frameworks
 
@@ -64,11 +64,11 @@ JSON/XML
 
 ## เครื่องมือ และ การออกแบบ CSS
 
-CSS Architecture (BEM)
-CSS Architecture (OOCSS)
-CSS Preprocessor (SASS / SCSS)
-Tailwind
-Bootstrap
+- [ ] CSS Architecture (BEM)
+- [ ] CSS Architecture (OOCSS)
+- [ ] CSS Preprocessor (SASS / SCSS)
+- [ ] Tailwind
+- [ ] Bootstrap
 
 ## การออกแบบการเข้าถึงและประสบการณ์การใช้งาน
 
